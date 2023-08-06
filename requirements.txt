@@ -8,3 +8,7 @@ lxml
 cfscrape
 urllib3==1.26
 flask==2.0.1
+aria2p
+pyrogram==2.0.66
+python-dotenv
+tgcrypto
